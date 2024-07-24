@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuszyczkiPunankiApi", "DuszyczkiPunankiApi\DuszyczkiPunankiApi.csproj", "{D28563AF-66AE-48CD-9A05-2C2C3444AB9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jwt.Core", "Jwt.Core\Jwt.Core.csproj", "{D3D0DB07-CC08-48C4-8FF9-3760758D3FCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D28563AF-66AE-48CD-9A05-2C2C3444AB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D28563AF-66AE-48CD-9A05-2C2C3444AB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D28563AF-66AE-48CD-9A05-2C2C3444AB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D0DB07-CC08-48C4-8FF9-3760758D3FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D0DB07-CC08-48C4-8FF9-3760758D3FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D0DB07-CC08-48C4-8FF9-3760758D3FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D0DB07-CC08-48C4-8FF9-3760758D3FCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
