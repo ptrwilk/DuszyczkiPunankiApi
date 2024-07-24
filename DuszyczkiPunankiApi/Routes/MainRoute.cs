@@ -21,7 +21,7 @@ public static class MainRoute
         return app;
     }
 
-    // [Authorize]
+    [Authorize]
     private static IResult Get(
         HttpContext context,
         IMainService mainService,
